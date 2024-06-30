@@ -5,7 +5,7 @@ This repository contains data analysis work focused on the Lok Sabha elections, 
 ## Tools Used:
 - **Power BI**: Used for creating interactive visualizations and dashboards.
 - **Excel**: Utilized for data cleaning, transformation, and preliminary analysis.
-- **Octoparse 8**: Employed for web scraping election data .
+- **Octoparse 8**: Employed for web scraping election data from [https://results.eci.gov.in](https://results.eci.gov.in).
 - **Web Scraper Extension**: Used in conjunction with Octoparse for specific web scraping needs.
 
 ## Insights and Analysis:
@@ -32,3 +32,12 @@ This repository contains data analysis work focused on the Lok Sabha elections, 
 
 ## Theme Support:
 The dashboard supports both light and dark themes for better readability and user preference.
+
+## Opening the Power BI File:
+To open the Power BI file included in this repository, follow these steps:
+1. Ensure you have Power BI Desktop installed on your computer. If not, you can download it from the [Microsoft Power BI website](https://powerbi.microsoft.com/).
+2. Download or clone this repository to your local machine.
+3. Navigate to the directory where the Power BI file (`Lok_sabha_Data_Analysis.pbix`) is located.
+4. Double-click the file to open it in Power BI Desktop.
+5. Once opened, you can interact with the visualizations and explore the data analysis.
+
